@@ -22,7 +22,7 @@ void setup() {
 }
 
 void loop() {
-  //cendere
+  //bella ciao
  if ( digitalRead(buton1)==HIGH )
    {
   tone(buzzer, mi);
